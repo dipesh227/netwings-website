@@ -2,8 +2,8 @@
 <section id="teams">
     <div class="container" data-aos="fade-up">
         <div class="section-header">
-            <h2>Event team</h2>
-            <p>Here are some of our team</p>
+            <h2>Our team</h2>
+            <p>Here are some of our team Members</p>
         </div>
 
         <div class="row">
