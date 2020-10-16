@@ -57,6 +57,15 @@ include("navbar.php");
                         case 'edit':
                             include('editclint.php');
                             break;
+                        case 'gallery':
+                            include('gallery.php');
+                            break;
+                        case 'faq':
+                            include('faq.php');
+                            break;
+                        case 'contectus':
+                            include('contectusset.php');
+                            break;
                         default:
                             include('dashboard.php');
                             break;

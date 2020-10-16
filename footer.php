@@ -5,16 +5,15 @@
               <div class="row">
 
                   <div class="col-lg-3 col-md-6 footer-info">
-                      <a href="./" class="scrollto"><img <?php echo 'src="data:image/jpeg;base64,' . base64_encode($detialsfetch[3]) . '" ' ?> alt="" title=""></a>
-
-                      <p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate cupiditate debitis accusamus repellat cumque.</p>
+                      <a href="./" class="scrollto"><img <?php echo 'src="data:image/jpeg;base64,' . base64_encode($detialsfetch[3]) . '" ' ?> style="max-width:200px;" alt="" title=""></a>
+                      <p>Netwings Infotech is formed by group of professionals in the field of telecommunications & Infrastructure. Incorporated in 2008, NWI offers services and supplies in the field of Project Management, Planning, RF and MW Engineering, Network optimization.</p>
                   </div>
 
                   <div class="col-lg-3 col-md-6 footer-links">
                       <h4>Useful Links</h4>
                       <ul>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">About us</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#header">Home</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#about">About us</a></li>
                           <li><i class="fa fa-angle-right"></i> <a href="#">Services</a></li>
                           <li><i class="fa fa-angle-right"></i> <a href="#">Terms of service</a></li>
                           <li><i class="fa fa-angle-right"></i> <a href="#">Privacy policy</a></li>

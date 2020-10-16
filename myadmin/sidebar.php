@@ -36,8 +36,17 @@ if ($_SESSION['admin_is_login']) {
                 <a class='nav-link ' href='./?id=slider'>
                     <div class='sb-nav-link-icon'><i class='fas fa-book'> </i></div>Slider Settings
                 </a>
+                <a class='nav-link ' href='./?id=gallery'>
+                    <div class='sb-nav-link-icon'><i class='fas fa-film'> </i></div>Gallery Settings
+                </a>
                 <a class='nav-link ' href='./?id=advertisement'>
-                    <div class='sb-nav-link-icon'><i class='fas fa-ad'> </i></div>advertisement Setting
+                    <div class='sb-nav-link-icon'><i class='fas fa-ad'> </i></div>Advertisement Setting
+                </a>
+                <a class='nav-link ' href='./?id=faq'>
+                    <div class='sb-nav-link-icon'><i class='fas fa-question'> </i></div>F.A.Q Setting
+                </a>
+                <a class='nav-link ' href='./?id=contectus'>
+                    <div class='sb-nav-link-icon'><i class='fas fa-comments'> </i></div>Contect us Setting
                 </a>
                 <div class='sb-sidenav-menu-heading'>Admin Settings</div>
                 <a class='nav-link' href='./?id=changepass'>

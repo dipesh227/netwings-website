@@ -9,10 +9,10 @@ if ($detialsfetch = $RESULT->fetch(PDO::FETCH_BOTH)) {
 ?>
 <!-- ======= Header ======= -->
 <header id="header">
-  <div class="container">
+  <div class="container-fluid">
 
     <div id="logo" class="pull-left">
-      <a href="./" class="scrollto"><img <?php echo 'src="data:image/jpeg;base64,' . base64_encode($detialsfetch[3]) . '" ' ?> alt="" title=""></a>
+      <a href="./" class="scrollto"><img <?php echo 'src="data:image/jpeg;base64,' . base64_encode($detialsfetch[3]) . '" ' ?> style="max-width:300px;" alt="" title=""></a>
     </div>
 
     <nav id="nav-menu-container">
