@@ -30,7 +30,7 @@ if (isset($_REQUEST['contectmsg'])) {
                     <div class="contact-address">
                         <i class="ion-ios-location-outline"></i>
                         <h3>Address</h3>
-                        <address>A108 Adam Street, NY 535022, USA</address>
+                        <address>A - Block Sector-63 Noida</address>
                     </div>
                 </div>
                 <div class="col-md-4">
