@@ -2,8 +2,8 @@
 <section id="learningnearn" class="section-with-bg " style="font-size: 20px;">
   <div class="container" data-aos="fade-up">
     <div class="section-header">
-      <h2>Event learningnearn</h2>
-      <p>Here is our event learningnearn</p>
+      <h2>Learning And Earning </h2>
+      <p></p>
     </div>
 
     Corporate training is extremely valuable for any business organization as it not only provides benefits to the individual but also allows the business company to continue their effective Run and enhance their productivity. Any business owner should understand that providing training to their corporate employees can certainly drive their business forward and regular corporate training can also result in skill development of the employees allowing them to contribute more to the organization. Some of the various benefits of Corporate training include:
