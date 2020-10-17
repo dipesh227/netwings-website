@@ -1,6 +1,4 @@
 <?php
-include('connect.php');
-session_start();
 if (!isset($_SESSION['admin_is_login'])) {
     if (isset($_REQUEST['login'])) {
         $username = trim($_REQUEST['Username']);
@@ -19,7 +17,7 @@ if (!isset($_SESSION['admin_is_login'])) {
         }
     }
 } else {
-    echo ' <script>location.href="./";</script>';
+    echo ' <script>location.href="/";</script>';
 }
 
 include("layoutAuthentication_header.php") ?>

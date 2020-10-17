@@ -3,8 +3,8 @@ include('myadmin/connect.php');
 $sql = "SELECT * FROM `theamdetials` WHERE `theamstetus`='active'";
 $RESULT = $conn->query($sql);
 if ($detialsfetch = $RESULT->fetch(PDO::FETCH_BOTH)) {
-    $theme_name = $detialsfetch[0];
-    $theme_layout = $detialsfetch[1];
+  $theme_name = $detialsfetch[0];
+  $theme_layout = $detialsfetch[1];
 }
 ?>
 <!-- ======= Header ======= -->
@@ -26,7 +26,7 @@ if ($detialsfetch = $RESULT->fetch(PDO::FETCH_BOTH)) {
         <li><a href="#gallery">Gallery</a></li>
         <li><a href="#faq">F.A.Q</a></li>
         <li><a href="#contact">Contact</a></li>
-        <li class="buy-tickets"> <a type="button" class="btn" data-toggle="modal" data-target="#register-modal" data-ticket-type="premium-access">Register Now</a>
+        <li class="buy-tickets"> <a type="button" class="btn" data-toggle="modal" data-target="#register-modal" data-ticket-type="premiu-access">Register Now</a>
         </li>
       </ul>
     </nav><!-- #nav-menu-container -->

@@ -144,6 +144,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   background: rgba(6, 12, 34, 0.39);
+  padding-left: 20px;
+  padding-right: 20px;
 
 }
 
@@ -168,6 +170,8 @@ h1, h2, h3, h4, h5, h6 {
   height: 70px;
   padding: 15px 0;
   transition: all 0.5s;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 #header #logo h1 {
@@ -1002,62 +1006,49 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# Hotels Section
+# technologyies Section
 --------------------------------------------------------------*/
-#hotels {
-  padding: 60px 0;
-}
-
-#hotels .hotel {
-  border: 1px solid #e0e5fa;
-  background: #fff;
-  margin-bottom: 30px;
-}
-
-#hotels .hotel:hover .hotel-img img {
-  transform: scale(1.1);
-}
-
-#hotels .hotel-img {
+#technologyies {
+  padding: 60px;
   overflow: hidden;
-  margin-bottom: 15px;
 }
 
-#hotels .hotel-img img {
-  transition: 0.3s ease-in-out;
+#technologyies .owl-nav, #technologyies .owl-dots {
+  margin-top: 25px;
+  text-align: center;
 }
 
-#hotels h3 {
-  font-weight: 600;
-  font-size: 20px;
-  margin-bottom: 5px;
-  padding: 0 20px;
+#technologyies .owl-item {
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
 }
 
-#hotels a {
-  color: #152b79;
+#technologyies .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ddd;
 }
 
-#hotels a:hover {
-  color: #f82249;
+#technologyies .owl-dot.active {
+  background-color: #f82249;
 }
 
-#hotels .stars {
-  padding: 0 20px;
-  margin-bottom: 5px;
+#technologyies .gallery-carousel .owl-stage-outer {
+  overflow: visible;
 }
 
-#hotels .stars i {
-  color: #ffc31d;
+#technologyies .gallery-carousel .center {
+  border: 6px solid #f82249;
+  margin: -10px;
+  box-sizing: content-box;
+  padding: 4px;
+  background: #fff;
+  z-index: 1;
 }
 
-#hotels p {
-  padding: 0 20px;
-  margin-bottom: 20px;
-  color: #060c22;
-  font-style: italic;
-  font-size: 15px;
-}
 
 /*--------------------------------------------------------------
 # Gallery Section

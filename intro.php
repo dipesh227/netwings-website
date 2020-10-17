@@ -1,9 +1,7 @@
 <!-- ======= Intro Section ======= -->
 <section id="intro">
   <div class="intro-container" data-aos="zoom-in" data-aos-delay="80">
-    <div class="h1 text-center text-danger">
-      Welcome To Netwings Trainings
-    </div>
+    
     <!-- Carousel wrapper -->
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
@@ -16,7 +14,7 @@
         ?>
           <!-- Single item -->
           <div class="carousel-item <?php echo $active ?>">
-            <img <?php echo 'src="data:image/jpeg;base64,' . base64_encode($sliderimg) . '"'; ?> class="d-block min-vw-100" alt="..." />
+            <img style="min-height: 85vh; max-width:100%; max-height:85vh;" <?php echo 'src="data:image/jpeg;base64,' . base64_encode($sliderimg) . '"'; ?> class="d-block min-vw-100" alt="..." />
             <div class="carousel-caption d-none d-md-block"></div>
           </div>
         <?php

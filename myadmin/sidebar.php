@@ -48,6 +48,9 @@ if ($_SESSION['admin_is_login']) {
                 <a class='nav-link ' href='./?id=contectus'>
                     <div class='sb-nav-link-icon'><i class='fas fa-comments'> </i></div>Contect us Setting
                 </a>
+                <a class='nav-link ' href='./?id=registercorurse'>
+                    <div class='sb-nav-link-icon'><i class='fas fa-graduation-cap'> </i></div>Registretion
+                </a>
                 <div class='sb-sidenav-menu-heading'>Admin Settings</div>
                 <a class='nav-link' href='./?id=changepass'>
                     <div class='sb-nav-link-icon'><i class='fas fa-key'></i></div>

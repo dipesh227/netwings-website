@@ -16,7 +16,7 @@
         while ($gallery = $RESULT->fetch(PDO::FETCH_BOTH)) {
           $galleryid = $gallery['id'];
           $galleryimg = $gallery['imgdata']; ?>
-          <a href=<?php echo'"data:image/jpeg;base64,' . base64_encode($galleryimg) . '"';?> class="venobox" data-gall="gallery-carousel"><img src=<?php echo'"data:image/jpeg;base64,' . base64_encode($galleryimg) . '"';?> alt=""></a>
+          <a  href=<?php echo'"data:image/jpeg;base64,' . base64_encode($galleryimg) . '"';?> class="venobox" data-gall="gallery-carousel"><img style="min-height: 200px; max-height:300px;" src=<?php echo'"data:image/jpeg;base64,' . base64_encode($galleryimg) . '"';?> alt=""></a>
         <?php } ?>
       </div>
 

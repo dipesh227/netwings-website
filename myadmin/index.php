@@ -1,83 +1,95 @@
 <?php
+error_reporting(0);
 session_start();
 include("connect.php");
 if ($_SESSION['admin_is_login']) {
     if ($_SESSION['admin_is_login'] == true) {
         $sellerphone = $_SESSION['Admin_Name'];
-    } else {
-        echo ' <script>location.href="login.php";</script>';
+        include("header.php");
+        include("navbar.php");
+?>
+        <div id='layoutSidenav'>
+            <?php include("sidebar.php"); ?>
+            <div id='layoutSidenav_content'>
+                <main>
+                    <div class='container-fluid'>
+                        <style>
+                            a:hover {
+                                text-decoration: none;
+                                color: #a71d2a;
+                            }
+                        </style>
+                        <?php
+
+                        if (isset($_GET['id'])) {
+                            $id = $_GET['id'];
+                            switch ($id) {
+                                case 'dashboard':
+                                    include('dashboard.php');
+                                    break;
+                                case 'changepass':
+                                    include('password.php');
+                                    break;
+                                case 'adduser':
+                                    include('register.php');
+                                    break;
+                                case 'theme':
+                                    include('theme.php');
+                                    break;
+                                case 'layout':
+                                    include('layout.php');
+                                    break;
+                                case 'content':
+                                    include('content.php');
+                                    break;
+                                case 'slider':
+                                    include('slider.php');
+                                    break;
+                                case 'advertisement':
+                                    include('advertisement.php');
+                                    break;
+                                case 'client':
+                                    include('ourclients.php');
+                                    break;
+                                case 'team':
+                                    include('team.php');
+                                    break;
+                                case 'edit':
+                                    include('editclint.php');
+                                    break;
+                                case 'gallery':
+                                    include('gallery.php');
+                                    break;
+                                case 'faq':
+                                    include('faq.php');
+                                    break;
+                                case 'contectus':
+                                    include('contectusset.php');
+                                    break;
+                                case 'registercorurse':
+                                    include('registerset.php');
+                                    break;
+                                default:
+                                    include('dashboard.php');
+                                    break;
+                            }
+                        } else {
+                            include('dashboard.php');
+                        }
+                        ?>
+                    </div>
+                </main>
+            </div>
+        </div>
+<?php
     }
 } else {
-    echo ' <script>location.href="login.php";</script>';
+    include('login.php');
 }
-include("header.php");
-include("navbar.php");
+
 ?>
 
-<div id='layoutSidenav'>
-    <?php include("sidebar.php"); ?>
-    <div id='layoutSidenav_content'>
-        <main>
-            <div class='container-fluid'>
-                <?php
-                
-                if (isset($_GET['id'])) {
-                    $id = $_GET['id'];
-                    switch ($id) {
-                        case 'dashboard':
-                            include('dashboard.php');
-                            break;
-                        case 'changepass':
-                            include('password.php');
-                            break;
-                        case 'adduser':
-                            include('register.php');
-                            break;
-                        case 'theme':
-                            include('theme.php');
-                            break;
-                        case 'layout':
-                            include('layout.php');
-                            break;
-                        case 'content':
-                            include('content.php');
-                            break;
-                        case 'slider':
-                            include('slider.php');
-                            break;
-                        case 'advertisement':
-                            include('advertisement.php');
-                            break;
-                        case 'client':
-                            include('ourclients.php');
-                            break;
-                        case 'team':
-                            include('team.php');
-                            break;
-                        case 'edit':
-                            include('editclint.php');
-                            break;
-                        case 'gallery':
-                            include('gallery.php');
-                            break;
-                        case 'faq':
-                            include('faq.php');
-                            break;
-                        case 'contectus':
-                            include('contectusset.php');
-                            break;
-                        default:
-                            include('dashboard.php');
-                            break;
-                    }
-                } else {
-                    include('dashboard.php');
-                }
-                ?>
-            </div>
-        </main>
-    </div>
-</div>
+
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 

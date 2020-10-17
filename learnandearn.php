@@ -1,253 +1,33 @@
 <!-- ======= learningnearn Section ======= -->
-<section id="learningnearn" class="section-with-bg">
+<section id="learningnearn" class="section-with-bg " style="font-size: 20px;">
   <div class="container" data-aos="fade-up">
     <div class="section-header">
       <h2>Event learningnearn</h2>
       <p>Here is our event learningnearn</p>
     </div>
 
-    <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
-      <li class="nav-item">
-        <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">Day 1</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Day 2</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Day 3</a>
-      </li>
+    Corporate training is extremely valuable for any business organization as it not only provides benefits to the individual but also allows the business company to continue their effective Run and enhance their productivity. Any business owner should understand that providing training to their corporate employees can certainly drive their business forward and regular corporate training can also result in skill development of the employees allowing them to contribute more to the organization. Some of the various benefits of Corporate training include:
+    <h1 class="m-4 font-weight-bold"> Vision and Mission</h1>
+    <ul>
+      <li>It allows the company to keep up with the industry changes so that their company do not left behind and keep a competitive edge over others.</li>
+      <li>It helps to company to be in touch with all the latest technology available so that they can utilize its full potential and achieve growth.</li>
+      <li>Corporate training can also help the company to stay ahead of their competitors as standing still would result in killing the business.</li>
+      <li>Regular staff training can also allow the company to identify their weaknesses and skill gap and take necessary measures to resolve them and increase the performance of the work force.</li>
+      <li>Corporate training also maintenance the knowledge and skills of the employees and also offers and incentive to learn and put the new skills to the practice.</li>
+      <li>It increases job satisfaction level of the employees who become happier due to their increasing contribution to the company which also provides internal promotion opportunities along with attracting new talents.</li>
+
     </ul>
 
-    <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
-      necessitatibus voluptatem quis labore perspiciatis quia.</h3>
 
-    <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
 
-      <!-- Schdule Day 1 -->
-      <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>09:30 AM</time></div>
-          <div class="col-md-10">
-            <h4>Registration</h4>
-            <p>Fugit voluptas iusto maiores temporibus autem numquam magnam.</p>
-          </div>
-        </div>
 
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>10:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/1.jpg" alt="Brenden Legros">
-            </div>
-            <h4>Keynote <span>Brenden Legros</span></h4>
-            <p>Facere provident incidunt quos voluptas.</p>
-          </div>
-        </div>
 
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>11:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/2.jpg" alt="Hubert Hirthe">
-            </div>
-            <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-            <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
-          </div>
-        </div>
 
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>12:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/3.jpg" alt="Cole Emmerich">
-            </div>
-            <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-            <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
-          </div>
-        </div>
 
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>02:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/4.jpg" alt="Jack Christiansen">
-            </div>
-            <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-            <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
-          </div>
-        </div>
 
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>03:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/5.jpg" alt="Alejandrin Littel">
-            </div>
-            <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-            <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
-          </div>
-        </div>
 
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>04:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/6.jpg" alt="Willow Trantow">
-            </div>
-            <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-            <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
-          </div>
-        </div>
 
-      </div>
-      <!-- End Schdule Day 1 -->
-
-      <!-- Schdule Day 2 -->
-      <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>10:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/1.jpg" alt="Brenden Legros">
-            </div>
-            <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
-            <p>Facere provident incidunt quos voluptas.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>11:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/2.jpg" alt="Hubert Hirthe">
-            </div>
-            <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-            <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>12:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/3.jpg" alt="Cole Emmerich">
-            </div>
-            <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-            <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>02:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/4.jpg" alt="Jack Christiansen">
-            </div>
-            <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-            <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>03:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/5.jpg" alt="Alejandrin Littel">
-            </div>
-            <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-            <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>04:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/6.jpg" alt="Willow Trantow">
-            </div>
-            <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-            <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
-          </div>
-        </div>
-
-      </div>
-      <!-- End Schdule Day 2 -->
-
-      <!-- Schdule Day 3 -->
-      <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>10:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/2.jpg" alt="Hubert Hirthe">
-            </div>
-            <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-            <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>11:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/3.jpg" alt="Cole Emmerich">
-            </div>
-            <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-            <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>12:00 AM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/1.jpg" alt="Brenden Legros">
-            </div>
-            <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
-            <p>Facere provident incidunt quos voluptas.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>02:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/4.jpg" alt="Jack Christiansen">
-            </div>
-            <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-            <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>03:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/5.jpg" alt="Alejandrin Littel">
-            </div>
-            <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-            <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
-          </div>
-        </div>
-
-        <div class="row learningnearn-item">
-          <div class="col-md-2"><time>04:00 PM</time></div>
-          <div class="col-md-10">
-            <div class="team">
-              <img src="assets/img/teams/6.jpg" alt="Willow Trantow">
-            </div>
-            <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-            <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
-          </div>
-        </div>
-
-      </div>
-      <!-- End Schdule Day 2 -->
-
-    </div>
 
   </div>
 

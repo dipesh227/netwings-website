@@ -172,8 +172,8 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+  color: #e77e05;
+ 
 }
 
 a:not([href]) {
@@ -10637,4 +10637,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+a:hover {
+  text-decoration: none;
+  color: #a71d2a;
 }

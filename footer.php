@@ -12,33 +12,33 @@
                   <div class="col-lg-3 col-md-6 footer-links">
                       <h4>Useful Links</h4>
                       <ul>
-                          <li><i class="fa fa-angle-right"></i> <a href="#header">Home</a></li>
                           <li><i class="fa fa-angle-right"></i> <a href="#about">About us</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Services</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Terms of service</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Privacy policy</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#contect">Contect Us</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#faq">F.A.Q</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="http://www.netwingsinfotech.in/terms-conditions">Terms of service</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="http://www.netwingsinfotech.in/privacy-policy">Privacy policy</a></li>
                       </ul>
                   </div>
 
                   <div class="col-lg-3 col-md-6 footer-links">
-                      <h4>Useful Links</h4>
+                      <h4>Site Nevigetion</h4>
                       <ul>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">About us</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Services</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Terms of service</a></li>
-                          <li><i class="fa fa-angle-right"></i> <a href="#">Privacy policy</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#ourclients">Our Clients</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#teams">Team</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#gallery">Gallery</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#learningnearn">Learn & Earn</a></li>
+                          <li><i class="fa fa-angle-right"></i> <a href="#technologyies">Technologyies</a></li>
                       </ul>
                   </div>
 
                   <div class="col-lg-3 col-md-6 footer-contact">
                       <h4>Contact Us</h4>
                       <p>
-                          A108 Adam Street <br>
-                          New York, NY 535022<br>
-                          United States <br>
-                          <strong>Phone:</strong> +1 5589 55488 55<br>
-                          <strong>Email:</strong> info@example.com<br>
+                          A - Block Sector-63 Noida <br>
+                          Noida, UP Pin: 201305<br>
+                          India <br>
+                          <strong>Phone:</strong> <a href="tel:+91 8743095779">+91 8743095779</a><br>
+                          <strong>Email:</strong> <a href="mailto: hr@netwingsinfotech.in"> hr@netwingsinfotech.in</a><br>
                       </p>
 
                       <div class="social-links">
@@ -57,16 +57,12 @@
 
       <div class="container">
           <div class="copyright">
-              &copy; Copyright <strong>TheEvent</strong>. All Rights Reserved
+              &copy; Copyright <strong><a href="http://www.netwingsinfotech.in"> Netwings Infotech</a></strong>. All Rights Reserved
           </div>
+          <hr>
+          <br>
           <div class="credits">
-              <!--
-        All the links in the footer should remain intact.
-        You can delete the links only if you purchased the pro version.
-        Licensing information: https://bootstrapmade.com/license/
-        Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
-      -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              Designed by <a href="https://dipeshjoshi.com/">DipeshJoshi</a>
           </div>
       </div>
   </footer><!-- End  Footer -->
