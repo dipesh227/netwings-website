@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
+    <!-- Favicons -->
+  <link href="http://www.netwingsinfotech.in/assets/img/logo.png" rel="icon">
     <title>Netwings Training</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">

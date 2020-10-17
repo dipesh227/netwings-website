@@ -7,6 +7,8 @@
     <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no' />
     <meta name='description' content='' />
     <meta name='author' content='' />
+    <!-- Favicons -->
+    <link href="http://www.netwingsinfotech.in/assets/img/logo.png" rel="icon">
     <title>Netwings Trainings</title>
     <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet" crossorigin="anonymous" />
     <link href='css/styles.css' rel='stylesheet' />
